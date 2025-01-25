@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+venv/
+
+# Sensitive files
+token.json
+credentials.json
+
+# Streamlit
+.streamlit/
+
+# OS generated
+.DS_Store
